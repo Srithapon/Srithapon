@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chitchai Srithapon
 - 👀 I’m interested in AI applications for enrgy system.
-- 🌱 I’m currently learning Deep Reinforce Learning.
+- 🌱 I’m currently learning Deep Reinforcement Learning.
 - 💞️ I’m looking to collaborate on power system optmization research.
 - 📫 How to reach me : chitchai.sr@kkumail.com
 
